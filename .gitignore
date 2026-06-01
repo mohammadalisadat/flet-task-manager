@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# PyCharm / IntelliJ
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite database if you don't want to upload it
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+# JetBrains IDE
+.idea/
+*.iml
+
+
