@@ -29,9 +29,7 @@ It helps users manage tasks, track daily habits, define goals and sub-goals, mon
 - Improve UI/UX design
 - Add data export and backup support
 - Add authentication and cloud sync
-## Author
-Mohammad Ali Sadat  
-Computer Engineering Student
+
 ## Author
 Mohammad Ali Sadat  
 Computer Engineering Student
